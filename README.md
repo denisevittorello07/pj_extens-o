@@ -129,7 +129,7 @@ ProjetoFinanceiro/
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/denisevittorello07/pj_extens-o.git 
 ```
 
 ### 2. Configurar o Banco de Dados
